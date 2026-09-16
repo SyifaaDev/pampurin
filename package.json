@@ -1,10 +1,10 @@
 {
-  "name": "pinple",
+  "name": "pampurin",
   "version": "1.0.0",
   "description": "",
-  "main": "index.mjs",
+  "main": "spam.js",
   "scripts": {
-    "start": "node index.mjs"
+    "start": "node spam.js"
   },
   "keywords": [],
   "author": "",
